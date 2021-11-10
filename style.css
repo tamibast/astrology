@@ -1,0 +1,55 @@
+
+#banner {
+    width: 100%;
+    height: 400px;
+}
+
+body {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.fonte {
+    font-family: Verdana;
+}
+
+div {
+    text-align: center;
+}
+
+h3 {
+    font-family: verdana;
+}
+
+li {
+    font-family: verdana;
+}
+
+.blocofogo {
+    background-color: #f96;
+    text-align: left;
+    padding: 15px;
+    
+}
+
+.blocoterra {
+    background: #996666;
+    text-align: left ;
+    padding: 15px;
+  
+}
+
+.blocoagua {
+    background: #33FFFF;
+    text-align: left ;
+    padding: 15px;
+
+}
+
+.blocoar {
+    background: #999999;
+    text-align: left ;
+    padding: 15px;
+
+}
+
